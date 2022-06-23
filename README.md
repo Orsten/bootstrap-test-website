@@ -1,5 +1,5 @@
-My Nicknam - Orsten.
+My Nickname - Orsten.
 My work:
 Some practice in bootstrap.
 
-# Git nad Github
+# Git and Github
